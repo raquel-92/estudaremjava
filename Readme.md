@@ -4,6 +4,7 @@ l
 
 Arquivo da aula de Git Hub na aula de iniciante.
 
-Git course
+Git-course
 Esse é repositorio para ensinar como usar git 
+
 
