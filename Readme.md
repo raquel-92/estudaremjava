@@ -4,7 +4,6 @@ l
 
 Arquivo da aula de Git Hub na aula de iniciante.
 
-Git-course
 Esse é repositorio para ensinar como usar git 
 
-
+Gostou do curso ? Quer mais ? Ajude com uma doação, até o café é valido.
